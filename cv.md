@@ -42,4 +42,4 @@ print(s2, s3, s4, sep=s1)
 * Upper-Intermediate  
 
 
-> I will add my first projets below
+> I will add my first projects below
