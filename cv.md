@@ -1,5 +1,5 @@
 ## Zhazira Massimkanova
-****
+
 
 
 #### Contacts
@@ -34,7 +34,7 @@ print(s2, s3, s4, sep=s1)
 
 
 #### Education
-* Master degree: [Al-Farabi Kazakh National University] (https://www.kaznu.kz/ru) and [ITMO University] (https://itmo.ru/)
+* Master degree: [Al-Farabi Kazakh National University](https://www.kaznu.kz/ru) and [ITMO University](https://itmo.ru/)
 * Internship: [La-Rochelle University](https://www.univ-larochelle.fr/)
 
 
